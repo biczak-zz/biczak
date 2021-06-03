@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alex!
+- 🌎 I currently live in Florida, USA.
 - 👀 I’m interested in Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on anything!
 - 💼 I am currently seeking full-time employment as a Software Engineer.
