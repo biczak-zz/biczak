@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Alex!
+- 🎂 I am 30 years old.
 - 🌎 I currently live in Florida, USA.
+- 🐱 I have one cat, Pixel.
 - 👀 I’m interested in Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on anything!
 - 💼 I am currently seeking full-time employment as a Software Engineer.
