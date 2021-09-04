@@ -1,5 +1,5 @@
 <div align="center">  
-  <h3>Hello, friend! 👋<br>I'm Alex.<br>I'm a Software Engineer specializing in Web Development.</h3>
+  <h3>👋 Hello, friend! 👋<br>I'm Alex.<br>I'm a Software Engineer specializing in Web Development.</h3>
 
   <h4> <a href="https://linktr.ee/biczak">Social Links</a> </h4>
 
